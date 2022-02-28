@@ -1,0 +1,383 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The purifying of vnclean hearts and hands: opened in a sermon preached before the Honourable House of Commons, at their solemne fast, January 28. 1645. in Margarets Westminster. / By Richard Vines, one of the Assembly of Divines. Published by order of the House of Commons.</title>
+            <author>Vines, Richard, 1600?-1656.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 54 KB of XML-encoded text transcribed from 18 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A95981</idno>
+            <idno type="STC">Wing V565</idno>
+            <idno type="STC">Thomason E319_12</idno>
+            <idno type="STC">ESTC R200558</idno>
+            <idno type="EEBO-CITATION">99861275</idno>
+            <idno type="PROQUEST">99861275</idno>
+            <idno type="VID">159005</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A95981)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 159005)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 52:E319[12])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The purifying of vnclean hearts and hands: opened in a sermon preached before the Honourable House of Commons, at their solemne fast, January 28. 1645. in Margarets Westminster. / By Richard Vines, one of the Assembly of Divines. Published by order of the House of Commons.</title>
+                  <author>Vines, Richard, 1600?-1656.</author>
+               </titleStmt>
+               <extent>[4], 31, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by G.M. for Abel Roper, at the signe of the Sun against St Dunstans church in Fleetstreet.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1646.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  N.T. --  James IV, 8 --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+               <term>Fast-day sermons --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-12</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-02</date>
+            <label>Amanda Flynn</label>Sampled and proofread</change>
+         <change>
+            <date>2012-02</date>
+            <label>Amanda Flynn</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:159005:1" rendition="simple:additions"/>
+            <p>THE PVRIFYING OF VNCLEAN HEARTS and Hands: <hi>OPENED</hi> In a SERMON Preached before the Honourable Houſe of COMMONS, at their ſolemne Faſt, <hi>January</hi> 28. 1645. in <hi>Margarets Weſtminſter.</hi> By RICHARD VINES, one of the Aſſem<g ref="char:EOLhyphen"/>bly of Divines.</p>
+            <q>
+               <bibl>PSAL. 24. 3, 4.</bibl>
+               <l>Who ſhall aſcend into the hill of the Lord? and who ſhall ſtand in his holy place?</l>
+               <l>He that hath clean hands and a pure heart.</l>
+            </q>
+            <p>Publiſhed by Order of the Houſe of COMMONS.</p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>G. M.</hi> for <hi>Abel Roper,</hi> at the ſigne of the Sun againſt S<hi rend="sup">t</hi> 
+               <hi>Dunſtans</hi> Church in <hi>Fleetſtreet.</hi> 1646.</p>
+         </div>
+         <div type="license">
+            <pb facs="tcp:159005:2"/>
+            <opener>
+               <dateline>
+                  <date>Die Mercurij 28<hi rend="sup">o</hi>. January, 1645.</date>
+               </dateline>
+            </opener>
+            <p>ORdered by the Commons aſſembled in PARLIAMENT, that M. <hi>Long</hi> and M. <hi>Holland</hi> do from this Houſe give thanks to M. <hi>Vines</hi> for the great pains he took in the Sermons he preached this day, at the intreaty of this Houſe, at S<hi rend="sup">t</hi> 
+               <hi>Margarets Weſt<g ref="char:EOLhyphen"/>minſter,</hi> (it being the day of Pub<g ref="char:EOLhyphen"/>like Humiliation) and to deſire him to Print his Sermon. And it is Ordered, that none ſhall Print his Sermon, but who ſhall be licenſed under his hand-wri<g ref="char:EOLhyphen"/>ting.</p>
+            <closer>
+               <signed>H. Elſynge, Cler. Parl. D. Com.</signed>
+            </closer>
+         </div>
+         <div type="appointment_to_print">
+            <p>I Appoint <hi>Abel Roper</hi> to print this Sermon.</p>
+            <closer>
+               <signed>Richard Vines.</signed>
+            </closer>
+         </div>
+         <div type="to_the_House_of_Commons">
+            <pb facs="tcp:159005:2"/>
+            <head>TO THE HONOVRABLE HOVSE OF COMMONS Aſſembled in <hi>Parliament.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">S</seg>Vch Auditours who will <hi>ſuffer the word of exhortation,</hi>
+               <note place="margin">Heb. 13. 22.</note> as they encourage the Miniſter to doe his, ſo they ſhall be ſure to know their duty; which is not ordinarily the happines of great perſonages. This Sermon was preache upon one of the dayes of your ſolemn approach and drawing nigh to God. It was no ſeaſon to preſent you with <hi>fan<g ref="char:EOLhyphen"/>cies</hi> dreſsed in cobweb lawn, or thin notions cloathed with ayr. The Popiſh faſts did but change ſolid meat into ſweet meats. The ſub<g ref="char:EOLhyphen"/>ject of the ſermon is <hi>cleanſing</hi> and <hi>purifying;</hi> which as it was neceſſary by the law, before the unclean perſon might draw nigh to God, ſo it is required of you, <hi>If thou prepare thine heart, and ſtretch out thy hands towards him; If iniquity be in thy hand, put it farre away: for then ſhalt thou lift up thy face without
+<pb facs="tcp:159005:3"/> ſpot,</hi> Iob 11, 13, 14, 15. It is a liberty which Mi<g ref="char:EOLhyphen"/>niſters claim by vertue of their commiſsion, <hi>to ſpeak, exhort, and rebuke with all autho<g ref="char:EOLhyphen"/>rity,</hi> Tit. 2. 15. You that are the tutelar pa<g ref="char:EOLhyphen"/>trons and aſſertours of <hi>juſt liberties,</hi> doe like your ſelves, in countenancing and encouraging this alſo: ſo ſhall you have the miniſtery of the Word alwaies ready to help you, to beat your corruptions <hi>black and blew,</hi> which to doe, is both the duty, and beauty of your ſackcloth-dayes.<note place="margin">1 Cor 9 17. <gap reason="foreign" resp="#OXF" extent="1 word">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> The Lord who hath ſaid, <hi>That the pure in heart ſhall ſee God,</hi> Math. 5. 8. And that be that hath <hi>clean hands,</hi> ſhall be ſtronger and ſtronger, <hi>Iob 17. 9.</hi> ſo draw nigh to you in the light of his countenance, and ſtrength of his arm, that you who have defended Religion from being trampled upon, may preſerve it from be<g ref="char:EOLhyphen"/>ing torn in pieces, and ſee the good of <hi>Jeruſa<g ref="char:EOLhyphen"/>lem</hi> all the dayes of your lives. So prayes,</p>
+            <closer>
+               <signed>Your ſervant in Chriſt leſus, Richard Vines.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:159005:3"/>
+            <head>A SERMON PREACHED before the Honourable Houſe of COMMONS, upon the day of the Monethly-Faſt, <hi>January 28. 1645.</hi>
+            </head>
+            <epigraph>
+               <bibl>JAMES 4. 8.</bibl>
+               <q>Draw nigh to God, and he will draw nigh to you: <hi>Cleanſe your hands, ye ſinners, and pu<g ref="char:EOLhyphen"/>rifie your hearts, ye double-minded.</hi>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">M</seg>Y worke at this time (by agreement) is to bring up the <hi>rere</hi> of this text,<note place="margin">See M. <hi>C<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>t</hi> his Sermon upon the for<g ref="char:EOLhyphen"/>mer part of this text.</note> that it may appear to you in a full <hi>bo<g ref="char:EOLhyphen"/>dy;</hi> you received (in the fore-noon) the invitation to that, which is not only the main duty, but alſo the chief good of man, <hi>To draw nigh to God:</hi> And you have (I hope) taſted of the ſweetneſſe of that promiſe
+<pb n="2" facs="tcp:159005:4"/> which God doth make, or the entertainment which he gives to ſuch; <hi>God will draw nigh to you;</hi> ſo the Prodigall ſon aroſe and came to his father,<note place="margin">Luk. 15. 20.</note> and his father ran and fell on his neck and kiſſed him. <hi>The lost ſon comes, the compaſſionate father runs.</hi> God an<g ref="char:EOLhyphen"/>ſwers his people in a way of retaliation: if they draw nigh to him, he will draw nigh to them: and this drawing nigh of God to us, is like the neerer ap<g ref="char:EOLhyphen"/>proaches of the Sun, which by his heat and prolifi<g ref="char:EOLhyphen"/>call influences, gives life and beauty to thoſe things that before lay dead and buried, ſhrowded in the winding ſheet of the winter ſnow.</p>
+            <p>That part of the Text which comes under my hand (<hi>Cleanſe your hands, ye ſinners, and purifie your hearts, ye double minded</hi>) contains in it,</p>
+            <p n="1">1. The <hi>Prohibens,</hi> or impediment prohibiting this mutuall drawing nigh of you to God, of God to you; and that is, the pollution of your hands, the uncleanneſſe or corruption of your hearts; for it is not poſſible there ſhould be coalition, or com<g ref="char:EOLhyphen"/>munion between God and wicked men; there<g ref="char:EOLhyphen"/>fore it is ſaid, <hi>Pſal.</hi> 18. 26. with the pure thou wilt ſhew thy ſelfe pure, and with the froward thou wilt ſhew thy ſelfe froward: <hi>Plato</hi> ſaw this truth<note place="margin">
+                  <hi>Plato</hi> in Phae<g ref="char:EOLhyphen"/>dane.</note> 
+               <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> (ſaith he) <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, the law of contrariety forbids puritie and filthi<g ref="char:EOLhyphen"/>neſſe to touch, that is, to have fellowſhip or com<g ref="char:EOLhyphen"/>munion, <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>Touch not the unclean thing,</hi> 2 <hi>Cor.</hi> 6. 17. God is ſo farre from drawing nigh unto, that he will hide his eyes from unclean hands. The reaſon why he delighteth not in our fatteſt Sacrifices, why our incenſe is an abomi<g ref="char:EOLhyphen"/>nation
+<pb n="3" facs="tcp:159005:4"/> to him, why he hateth our new Moons and appointed feaſts, why he will not hear our multi<g ref="char:EOLhyphen"/>plied prayers, is the uncleaneſſe of our hands, <hi>Iſa.</hi> 1. from the 11. to the end of the 15. verſe; Thou art of purereyes then to behold evil, and canſt not look on <hi>iniquity,</hi> ſaith the Prophet, <hi>Hab.</hi> 1. 13. that is,<note place="margin">See the word <gap reason="foreign" resp="#OXF" extent="1 word">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> explica<g ref="char:EOLhyphen"/>ted in M. <hi>Ga<g ref="char:EOLhyphen"/>taker</hi> his learn<g ref="char:EOLhyphen"/>ed Treatiſe, called, <hi>Gods eye on his Iſrael</hi>
+               </note> thou canſt not countenance the violence and oppreſſions of thy people, the grievance and vexation done un<g ref="char:EOLhyphen"/>to them by wicked men, much leſſe, draw nigh to men of ſuch unclean hands.</p>
+            <p n="2">2. The <hi>removens prohibens,</hi> or the removall of that impediment, and that is, <hi>cleanſing of hands,</hi> and <hi>purifying</hi> of your hearts, for ſaith the Prophet, <hi>Iſa,</hi> 1. 16. Waſh ye, make ye clean, put away the evil of your doings from before mine eyes; ceaſe to doe evil, learn to doe well, ſeeke judgement, relieve the oppreſſed, judge the fatherleſſe, plead for the widow: (And then it follows) <hi>Come now and let us reaſon together, ſaith the Lord.</hi> Our diſſimilitude and unlikeneſſe to God, is a barre to this mutuall ac<g ref="char:EOLhyphen"/>quaintance and communion, for a man unlike to God, cannot but diſlike him. As white is no more contrary to black, then black to white: ſo Gods ho<g ref="char:EOLhyphen"/>lineſſe is no more contrary to our wickedneſſe, then our wickednes is to his holines: and therefore there can be no drawing nigh together, unles either God recede from his holines (which cannot be) or we be cleanſed and purified from our uncleaneſſe, which <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s the onely way to make this communion cloſe, ſweet and firm.</p>
+            <p>That the Text is proper and ſeaſonable for this day of our Humiliation is plain, not only by that
+<pb n="4" facs="tcp:159005:5"/> which immediately followes in the 9. and 10. ver. <hi>Be afflicted, and mourn, and weep : humble your ſelves in the ſight of the Lord.</hi> But by the Text it ſelf, for what is the <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, the main buſines of a Faſt, but to ſearch for the Lord with all our heart, to lament after him, to draw nigh unto, and meet our God? and what is the <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, or main buſines of them that faſt, but to bring forth the wicked<g ref="char:EOLhyphen"/>nes that is in their hands, and the predominant cor<g ref="char:EOLhyphen"/>ruptions that are in their hearts, and as witneſ<g ref="char:EOLhyphen"/>ſes againſt them, to caſt upon them the ſtone of execution that they may die. A Faſt is not meer<g ref="char:EOLhyphen"/>ly a ſermon and a prayer, there is a propriety in that ordinance or duty. The ſermon ſhould ſpread your ſinnes before you, and your confeſſions and prayer ſhould ſpread them before the Lord. The ſermon puts the aſhes on your heads, and dreſſes your ſouls in that ſackcloth, which you are to wear as mourning garments, in your prayer and humiliation. I wiſh our Faſts may not loſe their property, like phyſick, which by often ta<g ref="char:EOLhyphen"/>king, becomes at length a <hi>diet,</hi> rather then a <hi>me<g ref="char:EOLhyphen"/>dicine.</hi>
+            </p>
+            <p>There is in the words <hi>triplex</hi> 
+               <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, a three-fold conjunction.</p>
+            <p>
+               <table>
+                  <row>
+                     <cell rows="2">Sinners and double-minded</cell>
+                     <cell>cleanſe and</cell>
+                     <cell rows="2">your</cell>
+                     <cell>Hands</cell>
+                  </row>
+                  <row>
+                     <cell>purifie</cell>
+                     <cell>Hearts.</cell>
+                  </row>
+               </table>
+            </p>
+            <p>I ſhall firſt break the ſhell, by explication of the termes.</p>
+            <p>The word [<gap reason="foreign" resp="#OXF" extent="1 word">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>] <hi>ſinners,</hi> as it ſignifies in generall any ſinner, in oppoſition to a righteous
+<pb n="5" facs="tcp:159005:5"/> man, <hi>Rom.</hi> 5. 19. As by one mans diſobedience, many were made [<gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>] <hi>ſinners,</hi> ſo by the o<g ref="char:EOLhyphen"/>bedience of one, ſhall many be made [<gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>] <hi>righ<g ref="char:EOLhyphen"/>teous:</hi> ſo in ſpeciall it alſo ſignifies a wicked man, one of flagitious life, a ſinner <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, therefore its often ſaid [<gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>] <hi>Publicans and ſin<g ref="char:EOLhyphen"/>ners,</hi> and <hi>Luk.</hi> 7. 37. a woman in that City which was [<gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>] a <hi>ſinner,</hi> that is, an adultereſſe, or a harlot, as it is generally expounded; and if we ſurvey the beginning of this chapter, what brawl<g ref="char:EOLhyphen"/>ings, envyings, luſts, ſelf-ſeeking, did raigne a<g ref="char:EOLhyphen"/>mongſt this people, we ſhall ſee good reaſon to take the word <hi>ſinners,</hi> for ſuch as did lie in more open and ſcandalous ſinnes, men of unclean hands.</p>
+            <p>The word <gap reason="foreign" resp="#OXF" extent="1 word">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>double-minded,</hi> is once before uſed in this Epiſtle, <hi>chap.</hi> 1. 8. and ſignifies ſuch as have double, (or as the Syriack expreſſeth it) divi<g ref="char:EOLhyphen"/>ded hearts, it anſwers the Hebrew expreſſion: <note place="margin">
+                  <gap reason="foreign" resp="#OXF" extent="1 span">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note> 
+               <hi>a heart and a heart,</hi> which the ſeptuagint doe inter<g ref="char:EOLhyphen"/>pret word for word,<note place="margin">1 Chron. 12. 33. Pſal. 12. 2.</note> 
+               <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, and <hi>Syma<g ref="char:EOLhyphen"/>chus</hi> (whom <hi>Chryſoſtom</hi> on, <hi>Pſal.</hi> 12. 2. calls <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>) renders it, <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, we ſhall beſt underſtand the ſenſe of the word, by comparing it with the oppoſite thereunto, and that is <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>Epheſ. 6. 5. Col. 3. 22. Simplicity, or ſinglenes of heart,</hi> it is a grace recommended to ſervants, <hi>In ſinglenes of heart as unto Christ, not with eye-ſer<g ref="char:EOLhyphen"/>vice as unto men;</hi> And again its ſaid, <hi>In ſinglenes of heart fearing God: doing whatſoever you doe from your heart, as to the Lord, and not to man;</hi> where you have ſinglenes of heart deſcribed, to be the
+<pb n="6" facs="tcp:159005:6"/> ſteerage of the heart, by the fear of God in a right line, to intend and aim at him and his glory, in all you doe; for thoſe crooked, ſerpentine, and ſub<g ref="char:EOLhyphen"/>till vvindings and turnings of heart, which are called,<note place="margin">
+                  <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note> 
+               <hi>Pſalm. 145. 4, 5. crooked wayes,</hi> that are like a vvinding vvay, or vvinding brooke, that runs in and out; or, like a vvinding ſtayre caſe, where a man goes but three or four ſtepps, and then turnes to another point, are ſet in oppoſition to uprightnes of heart; ſuch <hi>off and on,</hi> ſuch <hi>in and out</hi> hearts cannot be upright, they then are double minded.</p>
+            <p n="1">1. Whoſe hearts are not ſingle and entire with God, but divided between <hi>God and ſelf,</hi> being bi<g ref="char:EOLhyphen"/>aſſed with carnall and vvorldly luſts, policies or ends.</p>
+            <p>Like the heart of an <hi>Adulterer,</hi> or <hi>Adultereſse</hi> (ſo theſe double minded ones are alſo called, <hi>verſ</hi> 4.) which is divided between husband or wife, and ſome other ſtrange love.</p>
+            <p n="2">2. Whoſe hearts are not fixed upon one center, but uncertain, moveable, and inconſtant with God, <hi>Cap. 1. ver. 8. A double minded man is unſet<g ref="char:EOLhyphen"/>led in all his waies.</hi> The word is, <gap reason="foreign" resp="#OXF" extent="1 word">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, vvhich ſignifies that he is at no ſetledneſſe within himſelf, but off and on, by reaſon of luſts that mutiny with<g ref="char:EOLhyphen"/>in him, and carry him away from chuſing, and reſting upon God alone: and this inconſtancie riſes from the former, namely, the diviſion of the heart, for it being divided in it ſelfe by reaſonings, ſelf-intereſts, luſts, cannot be conſtant in attend<g ref="char:EOLhyphen"/>ance upon God. It is but by accident that the
+<pb n="7" facs="tcp:159005:6"/> weather cock points towards the Sun, namely, be<g ref="char:EOLhyphen"/>cauſe the winde and Sun are both in one corner. If the winde turn, it turns away alſo.</p>
+            <p n="2">2. <hi>Cleanſe and purifie,</hi> 
+               <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, theſe words are promiſcuouſly, and indifferently uſed by the <hi>Septuagint,</hi> to interpret the Hebrew vvords that ſignifie to <hi>cleanſe and purifie;</hi>
+               <note place="margin">
+                  <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note> and there is in theſe words an alluſion to legall uncleanneſſes, and the purifying of them; for as in the law, be<g ref="char:EOLhyphen"/>fore an unclean perſon might draw nigh to God, he muſt be purified from his uncleaneneſſe: ſo thoſe that will draw nigh to God, or would have God draw nigh to them, muſt cleanſe their hands, and purifie their hearts. <note place="margin">Eo lavatum, ut ſacrificem, nunc lavabo ut rem divina<g ref="char:cmbAbbrStroke">̄</g> faciam. <hi>Plaut.</hi> in aulul. <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <hi>Plutarch.</hi> in M<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>io.</note>The Heathens had their ceremonious waſhings, and purifyings, as preparative to their ſacrifices and prayers; and this heart-purifying, and hand-clean<g ref="char:EOLhyphen"/>ſing, is that <hi>purgatory</hi> thorow vvhich vve muſt go, if we will draw nigh to God in vvorſhip and com<g ref="char:EOLhyphen"/>munion; God will be ſerved with cleane crea<g ref="char:EOLhyphen"/>tures.</p>
+            <p n="3">3. <hi>Hands and hearts.</hi> The heart is the womb, vvhere luſt is vvarmed and conceived; the ſhop, where the forge, anvill, bellowes, fire are for the forming of luſt, and making of it ready. The hands are put for the executive and inſtrumentall powers, that bring it forth to light, and act it, <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>Rom.</hi> 6. 13. the vveapons of unrighteouſneſſe unto ſin: In ſhort, the outward and inward man being filthy and unclean, muſt be purified from corruption of heart and life. For he that hath cleane hands, and a pure heart;
+<pb n="8" facs="tcp:159005:7"/> 
+               <hi>Pſal, 24. 4. 5. ſhall receive the bleſſing from the Lord, and righteouſnes from the God of his ſalvation.</hi>
+            </p>
+            <p>I ſhall now come to the matter of the Text which I will handle.</p>
+            <p n="1">1. In the two parts of it diſtinctly. Cleanſe your hands, purifie your hearts.</p>
+            <p n="2">2. As theſe two parts are in connexion one with the other: cleanſe your hands, and purify your hearts.</p>
+            <p n="3">3. As they ſtand both together, in reference to our drawing nigh to God, and his drawing nigh to us. Draw nigh to God, and he vvill draw nigh to you. Cleanſe your hands, <hi>&amp;c.</hi>
+            </p>
+            <p>You may eaſily ſee that here is very little ſpecu<g ref="char:EOLhyphen"/>lative, or notionall matter, but practicall, and ſuch as will fall moſt properly into uſe, and into matter of application. We have now to deal vvith your hearts and hands, and not your brain. Here vvill be no <hi>fine thin wafers</hi> which vvill melt upon your tongue, and vaniſh in a little ſweetnes; and yet ſuch novelties and running banquets are all for the palate of theſe queaſy times; ô <hi>Religion!</hi> how art thou turned into a kinde of Philoſophy of opinions, in danger to be a meer ſceptick, or <hi>terra incognita,</hi> an <hi>every thing,</hi> a <hi>nothing,</hi> a thing for a vvanton fancy to play withall, a ſmooth tongue to talk of, made up of a brain and a mouth, with<g ref="char:EOLhyphen"/>out heart and hands. How can it be otherwiſe when the tree of knowledge is ſo much preferd be<g ref="char:EOLhyphen"/>fore the tree of life?</p>
+            <p>From the firſt part, <hi>Cleanſe your hands, ye ſin<g ref="char:EOLhyphen"/>ners,</hi> I obſerve,</p>
+            <pb n="9" facs="tcp:159005:7"/>
+            <p n="1">1. A corrupt and wicked life argues a man to be a ſtranger to God, and God to him.</p>
+            <p n="2">2. They that will draw nigh to God, muſt cleanſe their hands.</p>
+            <p>A corrupt and wicked life argues a man to be a ſtranger to God, and God him;<note place="margin" type="runSum">Doct. 1.</note> for other<g ref="char:EOLhyphen"/>wiſe a man might draw nigh to God, and have unclean hands too, which the Text ſuppoſes that it cannot be. That power which <hi>drawes a man into acquaintance</hi> with God, doth pro<g ref="char:EOLhyphen"/>portionably kill ſinne. That power which <hi>flowes from God in acquaintance</hi> with a man, kills ſinne too: whether I goe out to the ſunne, or the ſunne come in to me, the darkneſſe is expeld: ſinne hath not dominion o<g ref="char:EOLhyphen"/>ver them that are under grace, <hi>Rom.</hi> 6. 14. the knowledge of God ſets a man looſe from his bondage to the enſlaving luſts he before ſerved, <hi>ye ſhall know the truth, and the truth ſhall make you free,</hi> John 8. 32. draw nigh to God, and be unclean if you can. That faith which is uniting to Chriſt, is a purifying faith; rebellion againſt the Commandements of God, is inconſiſtent with communion with God; you may faſt, and pray, and ask, that you <hi>may conſume upon your lusts,</hi> ver. 4. like a cutpurſe in a Church, who comes not thi<g ref="char:EOLhyphen"/>ther to ſeek God, but his prey.</p>
+            <p>They that draw nigh to God, muſt cleanſe their hands;<note place="margin" type="runSum">Doct. 2.</note> 
+               <hi>I will waſh mine hands in innocency, ſo will I compaſſe thine Altar, O Lord,</hi> Pſal. 26. 6. Where you may obſerve, that thankſgivings and praiſes, which the Pſalmiſt calls ſacrifices of ſhout<g ref="char:EOLhyphen"/>ing,
+<pb n="10" facs="tcp:159005:8"/> or loud muſick, <hi>Pſal.</hi> 27. 6. and wherein they uſed (as one ſaith) <hi>th<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> agere circum altare,</hi>
+               <note place="margin">
+                  <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>Lori<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>ut</hi> 
+                  <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Pſa<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. 16. 6.</note> are to be performed with waſhen hands: ſo in your prayers, the Lord requires that you ſhould lift up <hi>pure hands,</hi> 1 Tim. 2. 8. and what a ſweet reflecti<g ref="char:EOLhyphen"/>on may you make upon your deliverances which are wonderfull, when you can ſay, I was upright with God, and I kept my ſelf from mine iniqui<g ref="char:EOLhyphen"/>ty? Therefore hath the Lord recompenſed me according to <hi>my righteouſnes,</hi> according to the <hi>cleanneſse of my hands</hi> in his eye-ſight, <hi>Pſal.</hi> 18. 23, 24. If ye fall into ſtraits, and be plunged into depths of miſery; <hi>If your face be foul with weep<g ref="char:EOLhyphen"/>ing, and on your eye lids be the ſhadow of death;</hi> what a lifting up of the head will it be unto you, to be able to ſay, <hi>Not for any injuſtice in my hands?</hi> Job. 16. 17. If the Lord ſhall deliver this Iſland from the oppreſſion and injuſtice under which it hath groaned; what a crown and comfort will it be to you, that it <hi>is delivered by the purenes of your hands?</hi> Job. 22. 30. To conclude. If there be a fruſtration of our counſells, and our endeavours bring forth nothing but winde; You ſhall finde the reaſon why God makes all void and ineffectu<g ref="char:EOLhyphen"/>all, <hi>Iſa.</hi> 59. 6. Their webs ſhall not become gar<g ref="char:EOLhyphen"/>ments, neither ſhall they cover themſelves with their works; <hi>Their works are works of iniquity, and the act of violence is in their hands.</hi>
+            </p>
+            <p>That nothing may be loſt, let us pick up the particulars that are offered unto us in this point.</p>
+            <p> N="1"1. That God invites <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, great ſinners to draw nigh to him, and promiſeth to draw nigh to
+<pb n="11" facs="tcp:159005:8"/> them, <hi>O ye ſinners,</hi> no ſuch ſtrangers to God, but they may come into favour, intimacy, and com<g ref="char:EOLhyphen"/>munion with him; <hi>great ſinners are oftentimes made great Saints:</hi> God engraves his image in unto<g ref="char:EOLhyphen"/>ward wood, that the churliſhnes of the matter may the more commend the workman; he calls them to him, being yet overwhelmed with ſinne, and in their drawing nigh to him they are cleanſed; as Chriſt ſent the Lepers to the Prieſts, but <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, as they were going they were cleanſed, <hi>Luk.</hi> 17. 14.</p>
+            <p n="2">2. He bids theſe ſinners <hi>cleanſe and purify,</hi> their hands and hearts? but how can corruption cleanſe it ſelf? can unſavoury ſalt ſeaſon it ſelf? No. God purifieth the heart by faith, <hi>Act.</hi> 15. 9. and every man that hath this hope, purifieth himſelf, 1 <hi>John</hi> 3. 3. Chriſt is he that comes by water and blood, 1 <hi>Joh.</hi> 5. 6. that is, by all manner of puri<g ref="char:EOLhyphen"/>fying, typified by legall purifications. This is (ſaith a learned man) one of the myſteries of this law (of purifying) that a clean perſon was him<g ref="char:EOLhyphen"/>ſelf made unclean,<note place="margin">Ainſworth <hi>in Numb. 19.</hi>
+               </note> by touching the <hi>holy water,</hi> ſprinkling it upon the unclean: and this is the great myſtery of the Goſpel, that he whoſe blood cleanſeth us from all ſinne, 1 <hi>John</hi> 1. 7. and in whom being a clean perſon is no ſinne, ſhould yet be made ſinne for us, and for our clean<g ref="char:EOLhyphen"/>ſing. And as an unclean perſon is ſaid to pu<g ref="char:EOLhyphen"/>rify himſelf, <hi>Numb.</hi> 19. 12, &amp; 20. becauſe that (though there was a peculiar water for that pur<g ref="char:EOLhyphen"/>poſe, and that alſo to be ſprinkled on him by another) it was his duty to come unto that pu<g ref="char:EOLhyphen"/>rifying
+<pb n="12" facs="tcp:159005:9"/> water, and make uſe of it: ſo are you to purify your hearts, and cleanſe your hands, by comming unto that blood of ſprinkling, <hi>Heb.</hi> 12. 22, 24. Faith will bring you to this puri<g ref="char:EOLhyphen"/>fying blood: one touch of Chriſt by faith, drawes vertue out of him, which will drie up your running iſſues. Humiliation, though it doe not properly cleanſe your hands, yet it plucks off the gloves, and makes them bare for waſhing: and godly ſorrow with its ſeven daughters as they are expreſſed, 2 <hi>Cor.</hi> 7. 11. are cleanſing things. This is the way of your cleanſing and purifying, this is your duty, and this through grace is your ability; for the re<g ref="char:EOLhyphen"/>generate being principled, doth act; being puri<g ref="char:EOLhyphen"/>fied, doth purify himſelf; and being kept by the power of God, doth alſo keep himſelf, as it is ſaid, 1 <hi>John</hi> 5. 18.</p>
+            <p n="3">3. Sinners are to cleanſe <hi>their hands:</hi> but what are thoſe ſinnes? they are generally thoſe outward ſinnes, or waies of wickedneſſe where<g ref="char:EOLhyphen"/>in men uſe to walk, and which doe denomi<g ref="char:EOLhyphen"/>nate a man <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, a ſinner of deeper die; but in ſpeciall we finde ſome more eminently cal<g ref="char:EOLhyphen"/>led ſinnes of the hands, as oppreſſion and vio<g ref="char:EOLhyphen"/>lence, <hi>Ionah</hi> 3. 8. blood, <hi>Iſa.</hi> 1. 15. bribes, <hi>Iſa.</hi> 33. 15. injuſtice, <hi>Iob.</hi> 16. 17. as there are alſo eye-ſinnes, ear-ſinnes, tongue-ſinnes, <hi>&amp;c.</hi>
+            </p>
+            <p n="4">4. Why is cleanſing the hands <hi>ſet before</hi> purifying of the heart? for the rule is, make the tree good, and his fruit good: in vain, doe we goe about to ſweeten the ſtream, when the
+<pb n="13" facs="tcp:159005:9"/> fountain ſtill ſends forth bitter water? To this I anſwer, that though it be but a ſollicitous trifling, to vex every <hi>prius</hi> and <hi>posterius</hi> which vve meet vvith in Scripture, and is but a curioſity to take pains to ſay nothing, leſt we might ſeem to leave any thing unſaid, yet there may ſome account be given of this tranſpoſi<g ref="char:EOLhyphen"/>tion: as 1. The Scripture ſometimes puts that firſt, which is viſibly firſt, the ſigne before the cauſe, as when it is ſaid, <hi>Calling</hi> and <hi>Election.</hi> 2. Becauſe conviction begins at ſome groſſer ſinne, there the conſcience begins to take fire: and God vvho hath the ordering of ſin, makes ſome great ſin very ſerviceable and uſefull, to be, as it vvere, an entring wedge to break the knotty heart all to pieces. 3. Becauſe grace having once got footing in the heart, preſently enters the field againſt this kinde of ſins, as ha<g ref="char:EOLhyphen"/>ving greater guilt, and by their bulk making the greateſt interception of the light of Gods countenance, and more inconſiſtent vvith a ſtate of ſalvation, then thoſe rebelling and moleſt<g ref="char:EOLhyphen"/>ing corruptions vvhich are vvithin.</p>
+            <p>For the reaſon of this point,<note place="margin" type="runSum">Reaſons.</note> 
+               <hi>That they who draw nigh to God, must cleanſe their hands.</hi> I ſhall offer onely this. That theſe ſins of our hands, do keep us at diſtance from God, and God at diſtance from us; <hi>your iniquities have ſeparated between you and your God, and your ſins have hid his face from you,</hi> Iſa. 59. 2. This is the worſt effect and fruit of ſin; that it is privative of our union with, and fruition of God: <hi>De<g ref="char:EOLhyphen"/>part
+<pb n="14" facs="tcp:159005:10"/> from me,</hi> is as terrible a word as <hi>everlasting fire:</hi> It is <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. Jude 13. <hi>the blackneſſe of darkeneſſe,</hi> the luſtings of corruption which are in the regenerate, are (as I may call them) tranſ<g ref="char:EOLhyphen"/>parent ſins, they obſtruct not our communion with God; like the motes which are infinite, but hinder not the ſuns bright beams from us; but theſe hand-ſins or wickedneſſe of life, are opacous, and put us into the ſhade, by their interpoſition between God and us, and doubtleſſe while we are in love with ſin, God is as unpleaſing to us as we are unpleaſing to him, nor would we any more draw nigh to him then he to us. Give me leave thus to convey the notion that I have upon this point, <hi>Commerce</hi> is one thing, <hi>Communion</hi> is ano<g ref="char:EOLhyphen"/>ther: As a man will have commerce or trade with an enemy, a ſtranger, any body, to trade with him for profit, and to gain ſome commodity which he hath in his hands; but Communion, which is in way of love, friendſhip or acquaintance, he cares not for, nor would by any means admit of; ſo a man, whoſe hands and life are full of ſin, and his heart full of enmity to God, may yet have ſome commerce with God in duties or or<g ref="char:EOLhyphen"/>dinances, to ſerve his turne upon God, <hi>uti Deo at fruatur mundo,</hi> and to make uſe of him for his own ends; as its ſaid, <hi>ver.</hi> 4. <hi>You aske, that you may confame upon your luſts;</hi> but communion in way of league and friendſhip with God, and fruition of him in way of ſpeciall love and favour, he neither can have, nor will, except he alſo give a bill of di<g ref="char:EOLhyphen"/>vorce to his beſt beloved luſts.</p>
+            <pb n="15" facs="tcp:159005:10"/>
+            <p>I come now to make application of this Point to you,<note place="margin" type="runSum">Generall Uſe.</note> and the Uſe is in the text, <hi>Cleanſe your hands, ye ſinners.</hi> It's unacceptable worke to be ſet upon, for a ſinner to cleanſe and purifie, and to cleanſe his hands too, which are full of profitable ſins, <hi>Turne ye every one from your evil way, and from the violence that is in your hands, Jonah</hi> 3. 8. It is a wonder that the ſhip wherein we are, ſo laden with ſins of all rankes and ſubordinations of men, King, Princes, Jud<g ref="char:EOLhyphen"/>ges, Lawyers, Gentry, Miniſters, people (eſ<g ref="char:EOLhyphen"/>pecially in ſuch grown ſeas as we have been in) ſhould live to this day; for you know we en<g ref="char:EOLhyphen"/>terd into this wilderneſſe, wherein we yet wan<g ref="char:EOLhyphen"/>der, with our former <hi>Egypt</hi>-ſins upon our backs, and we alas did not firſt make even before we went upon a new ſcore; we faſt, we pray, we Covenant, and yet we are as <hi>double minded,</hi> as <hi>foul handed</hi> as before; ungodlineſſe, unrighteouſ<g ref="char:EOLhyphen"/>neſſe, ſelf-ſeekings, hypocriſie, religiouſneſſe for our ends abound amongſt us, and contempt of the Miniſtery more then ever, ſo that preach<g ref="char:EOLhyphen"/>ing of the word by the Miniſters of this King<g ref="char:EOLhyphen"/>dom, which for ſoundneſſe, ſpiritualneſſe and ſucceſſe, hath not been (I was going to ſay) pa<g ref="char:EOLhyphen"/>ralelled, (I may truly ſay) exceld in any part of the world, is by very many now judged to have been a <hi>Monopoly,</hi> and fit among other Mo<g ref="char:EOLhyphen"/>nopolies to go down and to be made a common trade. Not many years ago, when it was both danger and diſgrace to hold forth the profeſſion of the name of Chriſt in truth, what appetite
+<pb n="16" facs="tcp:159005:11"/> had Chriſtians to the ſincere doctrine of Chriſt, and of regeneration and mortification of ſin? How did they, in their private meetings, lay ſiege to the throne of grace with united ſtrength, and antidote themſelves againſt the in<g ref="char:EOLhyphen"/>fectious air of thoſe times? whoſe eyes were thought too dear for thoſe faithfull meſſengers of God at whoſe feet they ſate? what contend<g ref="char:EOLhyphen"/>ing was there for the faith once delivered to the Saints? what burning love had they each to o<g ref="char:EOLhyphen"/>ther? what onenes of heart and minde? Now alas, ſome of thoſe good ears of come are mil<g ref="char:EOLhyphen"/>dewd, and many run all up into ſtraw, and do not eat ſo well; Religion vapours it ſelf out into notions and diſputes of no value, breaks into parties, and is broken in peeces by mutuall animoſities;<note place="margin">Ammianus Marcell. <hi>lib. 21</hi> de Conſtan<g ref="char:EOLhyphen"/>t o Grotius de ve<g ref="char:EOLhyphen"/>ritate, <hi>lib 1.</hi> in initto.</note> ſo it is obſerved, that that ſincere and true godlineſſe, which flouriſht and was warme in Chriſtians un<g ref="char:EOLhyphen"/>der the perſecuting Emperours, <hi>poſt Conſtantinum caepit refrigeſcere,</hi> after <hi>Conſtantine,</hi> when it vvas both ſafe and honourable, it began to cool, and to break out into ambition, pride, contention, <hi>&amp;c.</hi> If you will not own your ſins, we that are Mini<g ref="char:EOLhyphen"/>ſters muſt cry aloud, <hi>Iſa. 58. 1. Cry aloud, ſpare not, lift up thy voice like a trumpet, and ſhew my peo<g ref="char:EOLhyphen"/>ple their tranſgreſsions, and the houſe of Jacob their ſins:</hi> and obſerve, I pray you, to whom the Pro<g ref="char:EOLhyphen"/>phet is commanded to cry aloud, namely, to ſuch as ſought the Lord daily, and delighted to know his wayes, as a nation that did righteouſnes, and forſook not the ordinance of their God; ſuch as did aske of God the ordinances of juſtice, and
+<pb n="17" facs="tcp:159005:11"/> took delight in approaching to God, that faſted and afflicted their ſouls, <hi>ver.</hi> 2, 3. ſuch as made re<g ref="char:EOLhyphen"/>ligious duties the panders to their luſts, and the covert of their injuſtice and oppreſſion, hiding their filthy ſores under a velvet plaiſter; Sin lies faſt aſleep and moſt ſecure in ſuch men, <hi>the forme of religion is a buffe-coat to their ſins;</hi> and therefore <hi>cry aloud,</hi> and cry impartially againſt the ſins of all ſorts of men, ſo as not to lick the ſores of great ones, and bite the ſores of poor ones, for that is rather to upbraid men with their poverty, then reprove them for their ſins. You know that Phyſicians, Chyrurgians (and ſo Miniſters) are ſometimes allowed to be cruell; and the truth is, I fear we have lapt up the pills of reproof in ſo much pap and ſugar, that by allaying the bit<g ref="char:EOLhyphen"/>terneſſe we have fruſtrated the operation. Oh that you were all of you too generous to be flat<g ref="char:EOLhyphen"/>terd, and that you would ſearch out particularly your own perſonall and boſome ſins, ſwearing, drunkenneſſe, whoredome, injuſtice, oppreſſion: for whiles we ſpeak generals, no man thinks that the Cock crows to him, and ſo goes not forth to weep bitterly; upon a generall inditement of a man to be a felon or thief, there can be no pro<g ref="char:EOLhyphen"/>ceeding to ſentence, except the fact in particular be expreſt; ſo while you ſay only in generall, We are ſinners, and do not arraign your ſelves upon particulars, ſaying, This is <hi>my iniquity,</hi> you can ne<g ref="char:EOLhyphen"/>ver judge and condemne your ſelves as you ought. So much for the generall.</p>
+            <p>Now particularly to you (Honoured and Wor<g ref="char:EOLhyphen"/>thy) <note place="margin" type="runSum">Particular Uſe.</note>
+               <pb n="18" facs="tcp:159005:12"/> that are Members of the Honourable Houſe of Commons, <hi>as you are ſingle perſons,</hi> ſearch your ſelves, conſider your wayes; Is there any thing in your hands to be cleanſed? You are to purge the corrupt leaven out of your own houſes, your ſelves, your families, your places of office and truſt are the proper ſphere of your activity; you are for Eccleſiaſticall reformation, and the ſweep<g ref="char:EOLhyphen"/>ing out of corruptions out of the houſe of God: but are you as intent upon perſonall reformation of your own waies? do your own houſes lye clean? have you reall principles of godlines in your own hearts? or are you carried meerly by the Parliamentary <hi>genius</hi> or ſtream, by a rapt motion? In one word: are you not afraid of holines? Theſe are things ſadly to be conſi<g ref="char:EOLhyphen"/>dered. For can you think that in good ear<g ref="char:EOLhyphen"/>neſt one black-more ſhould goe about to waſh another? would you not ſay, Why doth not he firſt make himſelf white, that the other may thereby be perſwaded he can make him ſo too? If any of you ſhould lie in known ſinnes or luſts, can you comfortably, conſcientiouſly, and zealouſly contribute to the reformation of o<g ref="char:EOLhyphen"/>thers? you may indeed doe that which is right in the ſight of God, but where is your com<g ref="char:EOLhyphen"/>fort, if it be not done with a perfect heart? He muſt needs be afraid to hedge in the Sacra<g ref="char:EOLhyphen"/>ment, and to make it inaceſſible to the ſcanda<g ref="char:EOLhyphen"/>lous and prophane, or to ſettle a faithfull and ſearching miniſtery in the place he lives in, that knowes he ſhal but thereby make a rod for himſelf.
+<pb n="19" facs="tcp:159005:12"/> I beſeech you therefore to ſearch your ſelves, that you may not be Carpenters to build an Ark for others, and your ſelves be loſt. It is a great ho<g ref="char:EOLhyphen"/>nour to be a Member of this Parliament, but it is as great a burthen too, as ever Engliſh men underwent: and I ſhall crave leave to tell you further, that you may become the <hi>greateſt ſin<g ref="char:EOLhyphen"/>ners</hi> in the world by it, for now the ſinnes of the Kingdom: may become yours; the Here<g ref="char:EOLhyphen"/>ſies, blaſphemies, and crying wickedneſſes of oppreſſion and injuſtice may become yours; they are other mens ſins by commiſſion, they are <hi>your other mens ſinnes</hi> by your omiſſion of that opportunity, and duty of your place to provide for remedies preventive and removent of them, ſo farre as they may come within your knowledge, and the reach of your power. That which Scripture calls <hi>partaking in other mens ſins,</hi> addes more guilt to men of all ſorts, eſpecially Miniſters and Magiſtrates, then is generally thought of. Take heed of making your ſelves <hi>partakers</hi> of thoſe ſinnes and abominations, which you hate the thought of: and the Lord keep alive your zeal by this quickening conſi<g ref="char:EOLhyphen"/>deration.</p>
+            <p n="2">2. So much being ſpoken to any of you re<g ref="char:EOLhyphen"/>ſpectively, as ſingle Members: Give me leave to addreſſe my ſelf in a word or two to you the Honourable, and for ever to be renowned <hi>body.</hi> Is there any thing in your hands, the cleanſing away whereof may cauſe you to draw nigher to God, or God to draw neerer to you?
+<pb n="20" facs="tcp:159005:13"/> you have had a miraculous hand with you this laſt year; and there is with you as a <hi>token</hi> of Gods drawing nigh to you, ſuch a <hi>chain</hi> of ſuc<g ref="char:EOLhyphen"/>ceſſes and victories, conſiſting of ſo many links, without any flaw or breaking off between them, as very few people have to ſhow in the world again; I beſeech you watch the door againſt the entrance of that which uſually attends either great parts, or great benefits received, and that is <hi>pride:</hi> as we eaſilyer take cold when we are warm: ſo its naturall to man to be puft up with ſucceſſe. I ſhall offer to you this hum<g ref="char:EOLhyphen"/>bling conſideration; when <hi>Iſrael</hi> was in the act of leading two hundred thouſand of <hi>Iudah</hi> in triumph, having gotten a mighty victory over them; there was a Prophet that preſt upon the Conquerours a ſeaſonable argument, that took very much with them, and wrought them in<g ref="char:EOLhyphen"/>to a more equall temper, and it was this, 2 <hi>Chron.</hi> 28. 10. <hi>but are there not with you, even with you, ſinnes against the Lord your God?</hi> So ſay I to you: are there not ſinnes with you, <hi>even with you?</hi> reflect upon, and examine your ſelves. There are very many <hi>hard caſes</hi> in the Kingdom. I am not ſo out of my ſelf as to lay them at your door, as you are a body, becauſe indeed I cannot, (and yet if I could, I durſt doe it) but I moſt humbly give caution to you, <hi>who are the ſhields, the healers.</hi> There are many for<g ref="char:EOLhyphen"/>lorn and deſolate perſons, that follow you with cryes for the price of their husbands and fa<g ref="char:EOLhyphen"/>thers lives or limbs. It is not charity, but ju<g ref="char:EOLhyphen"/>ſtice
+<pb n="21" facs="tcp:159005:13"/> to refreſh their bowels: many have given down their milk freely, and yet after all have their breaſts bitten untill they bleed, by unlaw<g ref="char:EOLhyphen"/>full plundering, ſpoyl and violence: many in<g ref="char:EOLhyphen"/>ſtruments imployed, are very <hi>ſharp bitten</hi> and prey for themſelves. The intention of the Phyſi<g ref="char:EOLhyphen"/>cian and of the Leech is not the ſame. <hi>He</hi> intends to draw out the blood in due proportion, as his patient can bear: <hi>Shee</hi> hath no other gage of her ſucking, then till ſhe be full as ſhe can hold. It were juſtice to ſqueeſe theſe ſpunges, that have ſuckt themſelves full, and to leave them as dry as they were at firſt. Let difference be made of mens faults in their puniſhments: there is no reaſon, that <hi>Peter</hi> who denyed his Maſter of infirmity, and <hi>Iudas</hi> that betrayed him delibe<g ref="char:EOLhyphen"/>rately, ſhould be both in one praedicament. Let not juſtice be byassed by partiality. A Judge ought to look with no other eye, but the eye of the law, which looks at things, and is blinde to perſons. Let juſtice be ſpeeded,<note place="margin">
+                  <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>Ariſt.</hi> Ethic. lib. 5. cap. 7.</note> that expenſes and attendance eat not out the principall in que<g ref="char:EOLhyphen"/>ſtion, <hi>Amos</hi> 5. 24. <hi>Let judgement run down like water, and righteouſnes like a mighty stream;</hi> and above all, ſhake your hands from bribes: whe<g ref="char:EOLhyphen"/>ther bribes by <hi>preſents,</hi> or by kinred, friendſhip, favour, one puts out the eye as well as another, and there may be <hi>quid pro quo</hi> bribes, when a man will lend his vote to one, to have it paid him a<g ref="char:EOLhyphen"/>gain, in a cauſe when he will call for it, and <hi>opi<g ref="char:EOLhyphen"/>nion-bribes,</hi> (as I may call them) when a man will endeavour to carry another thorow, becauſe he
+<pb n="22" facs="tcp:159005:14"/> is of his opinion and judgement in other things; Oh let juſtice dwell in your tents, and in your hands. And if in this ataxie, or confuſion of things it be impoſſible to prevent, or remedy many miſ<g ref="char:EOLhyphen"/>carriages, as I think it is, (conſidering that many who run in to the common ſcathe-fire, doe not intend the quenching of it, but the ſeeking of an opportunity, in that confuſion, to rob them that are in miſery, and to fiſh for themſelves) then my prayer ſhall be that of <hi>Hezekiah,</hi> 2 Chron. 30. 18, 19. <hi>The good Lord pardon every one that prepa<g ref="char:EOLhyphen"/>reth his heart to ſeek God, though he be not cleanſed according to the purification of the Sanctuary.</hi>
+            </p>
+            <p>And ſo I paſſe on to the ſecond particular in the Text, <hi>Purifie your hearts, ye double minded;</hi> whence I take up theſe two points.</p>
+            <list>
+               <item>1. Double minded men have corrupt hearts.</item>
+               <item>2. This double mindednes hinders both <hi>our drawing nigh to God, and his drawing nigh to us.</hi>
+               </item>
+            </list>
+            <p>Double minded men have corrupt hearts:<note place="margin" type="runSum">Doct. 1.</note> for its ſaid, <hi>purify your hearts,</hi> ye double minded. Doublemindednes is a diviſion of heart between God and ſome other preponderating luſt, or ſelf-intereſt; and ſo where there ſhould be no diviſi<g ref="char:EOLhyphen"/>on, but ſinglenes and integrity, there is diviſion; For all the heart, all the minde, all the ſoul, and all the ſtrength, is that which God calls for. There are ſome that have <hi>no heart,</hi> they have no thoughts of God, no reliſh of him, no byaſſe to<g ref="char:EOLhyphen"/>wards him<g ref="char:punc">▪</g> it was an ill omen in ſacrifices, <hi>quan<g ref="char:EOLhyphen"/>docor deſeciſſet,</hi> when there wanted a heart; there
+<pb n="23" facs="tcp:159005:14"/> can be no expectation of any returne of heartles prayer, heartles performance of duties; and this is the common poſture of ſpirit of the ignorant, and ſecure worldlings. There are ſome that have double hearts, they pretend to have a zeal of God, and they profeſſe the name of Chriſt, and hang out the Chriſtian colours: but through hypocri<g ref="char:EOLhyphen"/>ſy and partiality to their own ends, and ſelf-re<g ref="char:EOLhyphen"/>ſpects they halt between God and <hi>Baal,</hi> or en<g ref="char:EOLhyphen"/>deavour to comply with two maſters, or they part their friendſhip and love between God and the world, as ver. 4. Ye adulterers and adultereſſes, know ye not that the friendſhip of the world is enmity with God? There are ſome that have one heart, and this is that which God promiſeth to his Covenant-people, and wherein he delights, when the heart is <hi>totum homogeneum,</hi> whole and undivided from him, then is it a perfect heart, and of a happy temper or conſtitution, being of chaſt love, affection and faithfulnes to God, not vitia<g ref="char:EOLhyphen"/>ted or deflowred by carnall copulation with other baſe luſts or ends; do but obſerve our Saviour in that ſaying of his, <hi>Math.</hi> 6. 22, 23. how he oppo<g ref="char:EOLhyphen"/>ſeth unto a <hi>ſingle eye,</hi> an <hi>evil one;</hi> If, ſaith he, <hi>Thine eye be ſingle,</hi> and then when you would have expected that <hi>double</hi> ſhould have been oppoſed to <hi>ſingle,</hi> he ſaith, But if thy eye be <hi>evil,</hi> thereby ſignifying, that if it be not ſingle, it is naught and evil; and whereas one might think, that a dou<g ref="char:EOLhyphen"/>ble eye hath more light then a ſingle: our Savi<g ref="char:EOLhyphen"/>our tels us the plain contrary, that a ſingle eye makes the body full of light, but a double eye
+<pb n="24" facs="tcp:159005:15"/> fills it full of darknes; Its true, there is in a double minded man, ſome eye to God, that is, ſo as to uſe his name to ſerve ſelf-ends, or to colour and cover his ſiniſter aims and intentions. As a har<g ref="char:EOLhyphen"/>lot whoſe heart goes after unchaſt loves, will yet have a husband too, (that is) to colour and hide her lewdnes; ſuch are theſe which are dou<g ref="char:EOLhyphen"/>ble hearted: they have a Sabbath for God, and ſix dayes for their luſts: they retain to God, and wear his cloth, and ſometimes wait and attend, but they are their own men for the moſt part, and work for themſelves; Religion unto them is but the ſtalking horſe, under the ſides whereof they creep, to get a ſhoot at their own game; how often doth God in Scripture finde fault with this kinde of profeſſours? <hi>when ye faſted,</hi> ſaith he, <hi>Zech. 7. 5. did ye at all faſt unto me, even unto me?</hi> and again, when they howled upon their beds, they have not cryed unto me with their heart, they aſſemble themſelves for corn and wine, and they rebell againſt me, <hi>Hoſ.</hi> 7. 14. An <hi>Iſrae<g ref="char:EOLhyphen"/>lite</hi> that is without guile, that hath but one heart, is a rare man, and worthy of an <hi>Ecce. Behold, in<g ref="char:EOLhyphen"/>deed an Iſraelite.</hi>
+            </p>
+            <p>In the opening of this point, I ſhall follow the threed of that explication of this word (double minded) which I gave in the beginning.</p>
+            <p n="1">1. This double mindednes is an uncertainty of the heart with God, not fixed upon a center, but off and on, as times, occaſions, and intereſts doe lead on, or draw off, ſo farre you will goe with God, as your way and his doe fall out to hold
+<pb n="25" facs="tcp:159005:15"/> together: and untill you muſt pull down <hi>Jerobo<g ref="char:EOLhyphen"/>ams calves,</hi> as well as <hi>Ahabs Baal,</hi> and then you part with him when it comes to ſuch a pinch; ſo alſo in adverſity or affliction, we make <hi>nautarum vota,</hi> mariners vowes (as they doe in a ſtorm) and when we are on ſhore, and landed out of danger, we eat the Covenant we made before, <hi>Pſal. 78. 24. &amp;c. When he ſlew them, then they ſought him, and they returned and enquired early after God, and they remembered that God was their rock, and the high God their Redeemer. Nevertheles, they did but flatter and lye unto him, for their heart was not right with him, nor were they ſtedfast in his Covenant.</hi> If the heart was right with God, it would be cer<g ref="char:EOLhyphen"/>tain and ſtedfaſt with him. Conſtancy is but the daughter of ſincerity. Its a hatefull thing to ſet ſail to every winde, and to change colour ſo often, being no faſter tyed to God in the tempeſt, then we can be looſened in the calm; <hi>Be what you were in the storm:</hi> in your affliction you will abide to be ſpurred withoutkicking, and are ve<g ref="char:EOLhyphen"/>ry tame under reproofs: but when you are lifted up and are at ſhore, then to put you in minde of your vowes and Covenants in the day of your trouble, is as an unpleaſing a thing, as to put a Mariner at ſhore in minde of his vowes or pro<g ref="char:EOLhyphen"/>miſes made at Sea. Its no great danger to re<g ref="char:EOLhyphen"/>prove men ſharply when they are low, any cow<g ref="char:EOLhyphen"/>ard may ſtrike a man that is down, but (believe it) when men are aloft and high, and may more ſafelyer be dealt withall by ſtroaking, then by
+<pb n="26" facs="tcp:159005:16"/> the ſpurre, then it is ſomewhat to come nigh the heels of truth, for it may haply ſtrike out his teeth.</p>
+            <p n="2">2. This doublemindedneſſe is a diviſion of the heart from God. 1. It is divided between the promiſes of God, and the difficulties oppoſite, when a man laies his dead body and the dead womb of <hi>Sara</hi> in the skales, againſt the promiſe of having <hi>Iſaac,</hi> this is ſenſe fighting againſt faith. 2. Between conſcience and luſt, conſcience di<g ref="char:EOLhyphen"/>ctates, luſt bypaſſes, the inferiour appetite muti<g ref="char:EOLhyphen"/>nies againſt the ſuperiour light, and leades it cap<g ref="char:EOLhyphen"/>tive, <hi>video melior a probòque, deteriora ſequor.</hi> 3. Be<g ref="char:EOLhyphen"/>tween Religion and policy: and then Religion commonly goes by the worſe, <hi>Jeroboam</hi> and the Kings of <hi>Iſrael,</hi> to comply with their politick re<g ref="char:EOLhyphen"/>ſpects, ſet up, and continued a ſelf-deviſed wor<g ref="char:EOLhyphen"/>ſhip. 4. Between God and the world, or God and our own ends, as they here in the Text: when we make God a meer ſervant to our ſelves, and move upon a private center of our own: the heart is cunning and ſubtile in ſquinting towards its own ends: viſibly we will be for God: under hand we ſeek our ſelves: ſo the planets in their daily motion from Eaſt to Weſt, move as the fixed ſtarres, but they have another motion of their own, which is creepingly by ſtealth, and more unperceivable then the other.</p>
+            <p>
+               <note place="margin" type="runSum">Vſe.</note>For the uſe of this point, let me turne the words of the Text once more upon you, by way of ex<g ref="char:EOLhyphen"/>hortation; <hi>Parify your hearts, ye double-minded,</hi> caſt
+<pb n="27" facs="tcp:159005:16"/> out thoſe dividing luſts, policies, ends, which draw you away from God; and pluck off thoſe falſe byaſſes of ſelf-intereſt, and ſelf-ſeeking, which cauſe you to wheel off from the true mark or ſcope of all your deſires and endeavours: you will be found <hi>faulty</hi> if your hearts be <hi>divided, Hoſ.</hi> 10. 2. ſimplicity of heart is of great account with God; there is <hi>aſinina ſimplicitas, &amp; colum<g ref="char:EOLhyphen"/>bina,</hi> the ſimplicity of the aſſe, and of the dove; the <hi>former</hi> is a defect in the underſtanding, the <hi>later</hi> is the grace of an honeſt heart; and this ſure is that which is of eſteem with God. In matters of judgement and juſtice between man and man, you are to have two eyes, to look both waies but as they that take aim ſhut one of their eyes, leſt the ſight ſhould be diſtracted; ſo in your aims and ends, your eye is to be ſingle, in intend<g ref="char:EOLhyphen"/>ing God, and not <hi>ſelf:</hi> let Chriſt increaſe, though you decreaſe.</p>
+            <p>The greateſt matter above-board, and which all mens expectations and mouthes are full of, is the ſetling of Religion and of the Church. Re<g ref="char:EOLhyphen"/>ligion is (<hi>rerum-publicarum quoddam quaſi coagu<g ref="char:EOLhyphen"/>lum</hi>) that which caements Common-wealths to<g ref="char:EOLhyphen"/>gether,<note place="margin">
+                  <hi>Cunaeus</hi> lib <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. cap. 15.</note> though now it be made the ball of con<g ref="char:EOLhyphen"/>tention, and the great divider of us into parties; we divide it, and are divided, being farre more then <hi>double</hi>-minded thereabout. Oh that God was firſt ſet into poſſeſſion of his right, and that his Tabernacle was pitcht, before any of the lots, for our own liberties or intereſts were drawn.
+<pb n="28" facs="tcp:159005:17"/> This was the oath that <hi>David</hi> ſwore in his affli<g ref="char:EOLhyphen"/>ctions, <hi>Pſal. 132. 2, 3, He ſware unto the Lord, and vowed unto the mighty God of Iacob. Surely I will not come unto the Tabernacle of mine houſe, nor goe up into my bed. I will not give ſleep to my eyes, or ſlum<g ref="char:EOLhyphen"/>ber to my eye-lids, untill I finde out a place for the Lord, an habitation for the mighty God of Iacob;</hi> and this is the firſt Article in our vow and Cove<g ref="char:EOLhyphen"/>nant. What the reall impediments are, doth not fall within my way: but the <hi>ſelf-intereſts</hi> are to be ſearched out. <hi>Not yet,</hi> ſay ſome, and their reaſon is the ſame, with that of the common ſort of peo<g ref="char:EOLhyphen"/>ple, againſt incloſures in former times: If every mans owne ſhould be incloſed, they ſhould loſe their freedom of <hi>common,</hi> and that liberty they u<g ref="char:EOLhyphen"/>ſurped all the field over, or (as others hope) that after we have turned round awhile, we may haply returne to the ſame poſture we were in be<g ref="char:EOLhyphen"/>fore, and having loſt our way in the miſt, may come back again to the ſame place whence we ſet out at firſt. <hi>If any,</hi> (ſay others) let it be a <hi>George on horſe-back</hi> that ſtands at door with a wooden dagger, but keeps no body from going in, the theef paſſes under his noſe into the houſe, as well as the true-man. <hi>Not this,</hi> ſay ſome of thoſe that are toward the law, for then haply many contentions might be quencht at the bottom of the chimney, before they flame out at the top: and ſuch may be the want of griſt, as it may tend much to the hinderance of their mill. <hi>Nothing thats one,</hi> ſay the <hi>Libertines,</hi> for we have gon looſe
+<pb n="29" facs="tcp:159005:17"/> ſo long, that now we cannot goe ſtrait laced. Its irkſome to wilde birds to be coopt up in a cage un<g ref="char:EOLhyphen"/>der diſcipline.</p>
+            <p>Thoſe that have been ſuch proficients in the ſchool of liberty in a few years, as to commence teachers and preachers of the Word, or have grown to be ſuch <hi>illuminates,</hi> as they pretend, will no more rejoyce in, or accept of a Government which may degrade them, or reſolve them into the firſt matter or elements of their compoſition, then <hi>Souldiers of fortune</hi> (as they are called) can re<g ref="char:EOLhyphen"/>joyce in a peace concluded and ſetled. There might be named many other ſuch like ends and intereſts, which carry ſtroke with men, and are the cauſes of our diviſions; which would in great part be quenched, if the game was plaid on all hands, by conſcience and ſinglenes of heart: let us therefore ſearch out thoſe ſelf-reſpects which lie cloſe in us, that we may finde the head of that <hi>Nilus</hi> which thus overflowes the banks. That <hi>double-mindednes</hi> which keeps us at diſtance from God, doth alſo keep us at diſtance from one ano<g ref="char:EOLhyphen"/>ther, and therefore that we may be <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>Phil. 2. 2. of one accord,</hi> I doe for my own part con<g ref="char:EOLhyphen"/>ceive it much conducing, that whatſoever touch<g ref="char:EOLhyphen"/>ing the ſettlement of the Church, ſhall paſſe your hands, may (in the main parts thereof) goe forth into the world, ſeconded with the reaſons and grounds of it: for doubtles, the reaſon which in<g ref="char:EOLhyphen"/>duced you to ſet the ſtamp of authority upon it, will avail much to make it paſſe currently with o<g ref="char:EOLhyphen"/>thers.
+<pb n="30" facs="tcp:159005:18"/> You know, the <hi>Gorgons</hi> head which ſtruck all men dumb in former times. <hi>The Church, the Church,</hi> is not likely to have the ſame operation now, in this ſeeing and ſearching age: though men will willingly <hi>be ſubjects to your authority,</hi> yet alſo, as they are men, they will be <hi>ſlaves to reaſon.</hi> There is in your hands already (Renowned and Honourable) ſomething which was printed by your appointment, for your ſatisfaction, in one main propoſition, which if it might ſee the pub<g ref="char:EOLhyphen"/>like light, might give light to many who are yet in a cloud or miſt.</p>
+            <p>So much for this point. There is yet a ſecond, ariſing from theſe words: <hi>Purify your hearts, ye dou<g ref="char:EOLhyphen"/>ble-minded.</hi> And that is,</p>
+            <p>A double-minded man through the uncleannes of his heart,<note place="margin" type="runSum">Doct. 2.</note> keeps at diſtance from God, and God keeps at diſtance from him. He that is byaſſed with ſome predominant luſt, cannot cloſe with God ſincerely, univerſally, neither will God impart himſelf to ſuch a man; <hi>For let not that man think that he ſhall receive any thing of the Lord, Iames</hi> 1. 7. would any of you ſettle an acquaintance or friendſhip with a known <hi>Vertumnus,</hi> that will be a paraſite at one time, and a <hi>Iud<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s</hi> at another? <hi>God is choice of his friends,</hi> he owns not ſuch as ſerve their luſts, and are in heart divided from him. I have no time left me for this point: as neither for the conſideration of both parts of this Text in connexion together: <hi>clean hands, and pure hearts:</hi>
+               <pb n="31" facs="tcp:159005:18"/> nor laſtly, for the conſideration of them both, with reference to our drawing nigh to God, and his drawing nigh to us; wherein I might have ſhewen you how communion with God, and the power of godlines are linked together; <hi>Draw nigh to God, and he will draw nigh to you: cleanſe your hands, ye ſinners, and purify your hearts, ye double-minded.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
